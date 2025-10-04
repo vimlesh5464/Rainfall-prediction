@@ -1,6 +1,10 @@
-Flask
+
 numpy
 pandas
 matplotlib
-ipykernel
-Scikit-Learn
+scikit-learn
+ipykernel 
+seaborn
+gunicorn
+Flask
+joblib
